@@ -9,8 +9,7 @@ namespace _001
     class Program
     {
 
-
-
+        //testStix
         static void Main(string[] args)
         {
             Console.BackgroundColor = ConsoleColor.Blue;
